@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 * change directory into the top level folder of this project
 ```
-Behave -Denv=localhost -Dbrowser=chrome --tags=-wip --tags=browser (INSERT PATH TO acceptance-test/functional_tests/features)
+Behave -Denv=localhost -Dbrowser=chrome --tags=-wip --tags=browser /functional_tests/features
 ```
 
 ## Next Steps I'd do in the real world
